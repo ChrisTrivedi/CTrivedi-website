@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: nord 
-  theme_night: nord
+  theme_day: ct_nord 
+  theme_night: ct_nord
   font: nord
   font_size: M
 

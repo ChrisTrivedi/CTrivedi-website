@@ -4,5 +4,5 @@ This Website is based on and uses George Cushen's [Wowchemy Academic-pages theme
 
 I feel I should also give credit to a few other websites that really inspired the design. Namely:
 
-[Luke Holman](https://www.lukeholman.org/) and [Leslie Myint](https://lmyint.github.io/)
+[Luke Holman](https://www.lukeholman.org/), [Leslie Myint](https://lmyint.github.io/), and [Anirban Basu](https://www.anirbanbasu.com/).
 
