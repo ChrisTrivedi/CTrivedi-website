@@ -56,4 +56,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim. Aenean non pretium metus. Proin mauris quam, euismod tincidunt consequat eu, consequat sed velit.
+Please feel free to contact me via this form or via Twitter should you want to discuss any of my research or experience. Thanks!

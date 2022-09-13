@@ -1,11 +1,8 @@
-# Academic Pages Template for [Hugo](https://github.com/gohugoio/hugo)
+# Personal website for Chris Trivedi
 
-### Exclusive to [Sponsors](https://github.com/sponsors/gcushen): ❤️ Thanks for your support ❤️
+This Website is based on and uses George Cushen's [Wowchemy Academic-pages theme](https://wowchemy.com/hugo-themes/), and is hosted through Netlify.
 
-The Academic Pages template enables you to quickly create a multi-page academic resumé with publications.
+I feel I should also give credit to a few other websites that really inspired the design. Namely:
 
-[![Screenshot](preview.webp)](https://hugo-academic-pages.netlify.app/)
+[Luke Holman](https://www.lukeholman.org/) and [Leslie Myint](https://lmyint.github.io/)
 
-## License 
-
-This template/theme is licensed to sponsors of George Cushen (sponsoring via GitHub Sponsors or Patreon) under the Sponsor License (see attached `../../LICENSE.md`).

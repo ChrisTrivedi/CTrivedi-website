@@ -8,7 +8,7 @@ main:
     url: '/'
     weight: 10
   - name: Publications
-    url: '/publications'
+    url: '/publication'
     weight: 20
   # - name: Fieldwork
   #   url: '/fieldwork'
@@ -17,7 +17,7 @@ main:
   #   url: '/posts'
   #   weight: 50
   - name: Contact
-    url: '#contact'
+    url: '/contact'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

@@ -28,9 +28,12 @@ experience:
     date_end: ''
     description: >-
         Responsibilities include:
-        *Analysing
-        *Modelling
-        *Deploying
+
+        * Processing of large NGS datasets
+
+        * Bioinformatic pipeline development using R and Python
+        
+        * Management of NGS data for clients
                 
   - title: 'Postdoctoral Scholar'
     company: 'GeoForschungsZentrum Potsdam'
@@ -39,5 +42,14 @@ experience:
     location: 'Potsdam, DE'
     date_start: '2019-01-01'
     date_end: '2022-04-30'
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+    description: 'Researched glacial snow and ice algea in Iceland, Greenland, and Svalbard and their impact and role in glacial melt dynamics.'
+
+  - title: 'Graduate Researcher'
+    company: 'Colorado School of Mines'
+    company_url: ''
+    company_logo:  # Optional logo
+    location: 'Denver, CO, USA'
+    date_start: '2012-09-01'
+    date_end: '2018-08-01'
+    description: 'Research thesis: Microbial community dynamics of Borup Fiord Pass, a High Arctic sulfur-impacted glacier.'
 ---

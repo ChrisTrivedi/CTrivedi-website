@@ -1,19 +1,19 @@
 // Narrower container for Hello World sections (primarily Blank widget content).
 @media (min-width: 1200px) {
   .home-section .container {
-    max-width: 880px;
+    max-width: 1200px;
   }
 }
 @media (min-width: 992px){
   .home-section .container {
-    max-width: 880px;
+    max-width: 1200px;
   }
 }
 
 // More compact section spacing
 
 .home-section {
-  padding: 0;
+  padding: 30px;
 }
 .home-section:nth-of-type(1) {
   padding-top: 1rem;
@@ -56,5 +56,9 @@
 // white text in About widget
 
 .dark .portrait-title h3 {
+  color: rgba(255, 255, 255, 1);
+}
+
+.light .portrait-title h3 {
   color: rgba(255, 255, 255, 1);
 }

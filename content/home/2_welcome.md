@@ -14,5 +14,9 @@ design:
 
 Recently (May 2022) I began work as a Bioinformatician processing Next Generation sequencing data in the Berlin office of LGC Biosearch Technologies. Prior to this position I was a postdoctoral scholar in the [Interface Geochemistry](https://www.gfz-potsdam.de/en/section/interface-geochemistry/overview/) group of Liane G. Benning at the [German Research Centre for Geosciences GFZ](https://www.gfz-potsdam.de/startseite/) in Potsdam, Germany. Part of my research in her group was to understand the role that biology plays on glacier melt dynamics. We were particularly interested in snow and ice algae and their impact on glacial albedo and carbon transformation processes. Our research used a variety of techniques to answer questions including targeted amplicon sequencing, metagenomic/metatranscriptomic sequencing, metabolomics, FT-ICR mass spectrometry, etc. For further information please check out our recent articles on the Publications page.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/Trivedi_CV_09_2022_current.pdf" "newtab" >}} Download my CV {{< /staticref >}}
+
+<!-- {{% callout note %}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Trivedi_CV_09_2022_current.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{% /callout %}} -->
 
