@@ -51,22 +51,22 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-interests:
-- Polar microbiology 
-- Climate science
-- Geobiology
-- Astrobiology
-- Bioinformatics
+# interests:
+# - Polar microbiology 
+# - Climate science
+# - Geobiology
+# - Astrobiology
+# - Bioinformatics
 
-education:
-  courses:
-  - course: PhD Environmental Engineering Science
-    institution: Colorado School of Mines
-    year: 2018
-  - course: MS Environmental Engineering Sciences
-    institution: Colorado School of Mines
-    year: 2013
-  - course: BS Biology
-    institution: University of Colorado Denver
-    year: 2006
+# education:
+#   courses:
+#   - course: PhD Environmental Engineering Science
+#     institution: Colorado School of Mines
+#     year: 2018
+#   - course: MS Environmental Engineering Sciences
+#     institution: Colorado School of Mines
+#     year: 2013
+#   - course: BS Biology
+#     institution: University of Colorado Denver
+#     year: 2006
 ---
