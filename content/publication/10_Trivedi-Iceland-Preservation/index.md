@@ -33,7 +33,7 @@ summary:
 tags:
 - Iceland
 - DNA/RNA preservation
-- Glaciar ice algae
+- Glacier ice algae
 - Snow algae
 - Metagenomics
 - Metatranscriptomics
