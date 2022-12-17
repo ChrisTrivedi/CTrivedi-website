@@ -46,7 +46,7 @@ tags:
 - Iceland
 - Greenland
 
-title: Low-temperature formation and stabilization of rare allotropes of cyclooctasulfur (β-S8 and γ-S8) in the presence of organic carbon at a sulfur-rich glacial site in the Canadian High Arctic
+title: Active and dormant microorganisms on glacier surfaces
 
 url_code: "https://github.com/jbradley8365/Geobiology_Bradley_dormancy_data_processing"
 url_dataset: ""
